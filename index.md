@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+I work as a Software Engineer for 3 years, and mainly develop backend apps using Golang.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+In this blog, I'll try to share what I've learned, or found interesting.
