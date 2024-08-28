@@ -8,6 +8,6 @@
 
 ### DEMO
 
-![Alt text](./attachments/2024-08-28-Fuzz-Testing-in-Go/1.jpg "a title")
+![Alt text](./attachments/2024-08-28-Fuzz-Testing-in-Go/1.jpg?raw=true "a title")
 
 ### Real life example
