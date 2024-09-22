@@ -223,17 +223,17 @@ on errors, panics or a property of the return value
 
 ### REFERENCES
 
-- https://about.gitlab.com/topics/devsecops/what-is-fuzz-testing/
-- https://talks.osinet.fr/fuzzing-en.slide#6
-- https://google.github.io/oss-fuzz/
-- https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/main-may10.pdf
-- https://google.github.io/clusterfuzz/reference/coverage-guided-vs-blackbox/
-- https://go.dev/src/internal/fuzz/minimize.go
-- https://google.github.io/oss-fuzz/getting-started/continuous-integration/
-- https://www.code-intelligence.com/blog/golang-fuzzing-1.19
-- https://go.googlesource.com/proposal/+/master/design/draft-fuzzing.md
-- https://go.dev/doc/security/fuzz/
-- https://go.dev/doc/tutorial/fuzz
-- https://go.dev/wiki/Fuzzing-trophy-case
-- https://www.fuzzingbook.org/html/GreyboxFuzzer.html
-- https://github.com/DataDog/datadog-agent
+- [https://about.gitlab.com/topics/devsecops/what-is-fuzz-testing/](https://about.gitlab.com/topics/devsecops/what-is-fuzz-testing/)
+- [https://talks.osinet.fr/fuzzing-en.slide#6](https://talks.osinet.fr/fuzzing-en.slide#6)
+- [https://google.github.io/oss-fuzz/](https://google.github.io/oss-fuzz/)
+- [https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/main-may10.pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/main-may10.pdf)
+- [https://google.github.io/clusterfuzz/reference/coverage-guided-vs-blackbox/](https://google.github.io/clusterfuzz/reference/coverage-guided-vs-blackbox/)
+- [https://go.dev/src/internal/fuzz/minimize.go](https://go.dev/src/internal/fuzz/minimize.go)
+- [https://google.github.io/oss-fuzz/getting-started/continuous-integration/](https://google.github.io/oss-fuzz/getting-started/continuous-integration/)
+- [https://www.code-intelligence.com/blog/golang-fuzzing-1.19](https://www.code-intelligence.com/blog/golang-fuzzing-1.19)
+- [https://go.googlesource.com/proposal/+/master/design/draft-fuzzing.md](https://go.googlesource.com/proposal/+/master/design/draft-fuzzing.md)
+- [https://go.dev/doc/security/fuzz/](https://go.dev/doc/security/fuzz/)
+- [https://go.dev/doc/tutorial/fuzz](https://go.dev/doc/tutorial/fuzz)
+- [https://go.dev/wiki/Fuzzing-trophy-case](https://go.dev/wiki/Fuzzing-trophy-case)
+- [https://www.fuzzingbook.org/html/GreyboxFuzzer.html](https://www.fuzzingbook.org/html/GreyboxFuzzer.html)
+- [https://github.com/DataDog/datadog-agent](https://github.com/DataDog/datadog-agent)
