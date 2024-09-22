@@ -1,6 +1,6 @@
 ## Fuzz Testing in Go
 
-In this article, I’ll cover the basics of fuzz testing and how to perform it with the built-in tools in Golang. This is actually the written in english version of the presentation I gave at Gophers Ankara in 2023 as well as GoConf Istanbul in February 2024. 
+In this article, I’ll cover the basics of fuzz testing and how to perform it with the built-in tools in Golang. This is actually the written in English version of the presentation I gave at Gophers Ankara in 2023 as well as GoConf Istanbul in February 2024. 
 
 If you’re interested, you can watch the full presentation from Istanbul GoConf via [this link](https://www.youtube.com/watch?v=HQ4SX9UxicM). 
 
@@ -121,7 +121,7 @@ Initially, I won’t activate the fuzz engine; I'll only test it with the seed c
 
  After that, we can run the fuzz engine by adding the -fuzz flag. Initially, it runs all the unit tests before activating the fuzz engine to ensure they pass. Next, there's a section called "gathering baseline coverage" where it calculates how much of the code is covered by the seed corpus.
 
-Shortly after generating inputs, an error is found: "index out of range" which triggers a panic. The engine reports that it saved this faulty condition as a file in the testdata/fuzz/shiftLeft folder.
+Shortly after generating inputs, test fails with the error "index out of range" which triggers a panic. The engine reports that it saved this faulty condition as a file in the testdata/fuzz/shiftLeft folder.
 
 ![](https://github.com/ayca-aydogan/ayca-aydogan.github.io/blob/main/_posts/attachments/2024-08-28-Fuzz-Testing-in-Go/img_11.png?raw=true)
 
